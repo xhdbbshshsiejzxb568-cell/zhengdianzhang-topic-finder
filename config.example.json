@@ -1,0 +1,7 @@
+{
+  "target_thread": "填你在 Codex 里负责采样的那个任务的 ID",
+  "codex_path": "/Applications/ChatGPT.app/Contents/Resources/codex-cli/CodexCLI.app/Contents/MacOS/codex",
+  "timezone": "Asia/Shanghai",
+  "port": 18765,
+  "browser": "Chrome"
+}

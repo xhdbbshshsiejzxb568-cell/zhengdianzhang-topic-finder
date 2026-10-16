@@ -1,0 +1,11 @@
+# 只留在本机、不上传 GitHub：采集到的评论数据、本机配置、作者本机说明
+/data/
+/config.json
+/README.md
+/SAMPLER.md
+/导出/
+*.command
+*.log
+.DS_Store
+__pycache__/
+*.pyc
